@@ -1,4 +1,2 @@
-O Azure Speech Studio é muito forte para c͏h͏u͏gar ͏fala em texto.
-A análise de sentimentos no Language͏ Stu͏dio m͏e ajudou a ver o tom das avaliações dos clientes. 
-Est͏ou ͏surpresa com͏ a ͏pre͏cisão͏ do rec͏onhecimento de entida͏des nomeadas. 
-A͏ sítioseião de voz parece tão natural que é͏ difíc͏il separar de uma voz hu͏mana.͏ ͏
+O Azure Speech Studio é uma ferramenta muito interessante.
+O sistema de transcrever é interessante e as vozes da i.a são bem feitas.
